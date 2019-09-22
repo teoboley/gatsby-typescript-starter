@@ -13,18 +13,18 @@
     "prettify": "prettier --write 'src/**/*.{tsx,ts,jsx,js}'"
   },
   "dependencies": {
-    "gatsby": "^2.0.0",
+    "gatsby": "^2.15.20",
     "gatsby-link": "^2.2.15",
     "gatsby-plugin-atl": "^1.0.6",
     "gatsby-plugin-react-helmet": "^3.1.8",
-    "react": "^16.4.0",
-    "react-dom": "^16.4.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
     "@types/node": "^10.3.1",
-    "@types/react": "^16.4.0",
-    "@types/react-dom": "^16.4.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
     "prettier": "1.18.2",
     "tslint": "^5.10.0",
     "tslint-config-prettier": "^1.13.0",
