@@ -3,6 +3,7 @@ module.exports = {
     siteName: `Gatsby Typescript Starter`,
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
     `gatsby-plugin-atl`
   ],
 }
