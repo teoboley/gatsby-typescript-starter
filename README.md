@@ -1,5 +1,5 @@
 # gatsby-typescript-starter
-A fork of @haysclark 's Typescript version of the default Gatsby starter, modified to use [`awesome-typescript-loader`](https://github.com/s-panferov/awesome-typescript-loader) to provide true Typescript compilation and type checking at build time.
+A fork of [@haysclark 's Typescript version of the default Gatsby starter](https://github.com/haysclark/gatsby-starter-typescript), modified to use [`awesome-typescript-loader`](https://github.com/s-panferov/awesome-typescript-loader) to provide true Typescript compilation and type checking at build time.
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
 
